@@ -65,7 +65,7 @@ Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quant
 
 ## Power BI File
 
-Download her:(https://drive.google.com/file/d/1vzRlKZvF21VoYO4qFYxUl9UjMxUgI406/view?usp=sharing)
+Download here: (https://drive.google.com/file/d/1vzRlKZvF21VoYO4qFYxUl9UjMxUgI406/view?usp=sharing)
 
 ---
 
