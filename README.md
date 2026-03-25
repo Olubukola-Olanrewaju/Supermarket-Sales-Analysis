@@ -63,6 +63,10 @@ Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quant
 ![Dashboard 1](https://github.com/Olubukola-Olanrewaju/Supermarket-Sales-Analysis/blob/main/Sales_overview%20png.png)
 ![Dashboard 2](https://github.com/Olubukola-Olanrewaju/Supermarket-Sales-Analysis/blob/main/product_performance.png.png)
 
+## Power BI File
+
+Download her:(https://drive.google.com/file/d/1vzRlKZvF21VoYO4qFYxUl9UjMxUgI406/view?usp=sharing)
+
 ---
 
 ## Project Files
