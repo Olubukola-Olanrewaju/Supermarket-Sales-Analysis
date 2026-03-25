@@ -61,7 +61,7 @@ Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quant
 ## Dashboard Preview
 
 ![Dashboard 1](https://github.com/Olubukola-Olanrewaju/Supermarket-Sales-Analysis/blob/main/Sales_overview%20png.png)
-![Dashboard 2]()
+![Dashboard 2](https://github.com/Olubukola-Olanrewaju/Supermarket-Sales-Analysis/blob/main/product_performance.png.png)
 
 ---
 
